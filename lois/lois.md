@@ -1,0 +1,1 @@
+Toutes les lois de la RPDB sont dans ce dossier ou dans [../lois_a_trier](../lois_a_trier). Vous pouvez proposer dans une pr celles qui ont été oubliées

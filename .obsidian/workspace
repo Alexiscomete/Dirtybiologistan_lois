@@ -7,8 +7,11 @@
         "id": "ffc1a19eb1ff1a4c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "lois/lois.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lois/lois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,8 @@
     "collapsed": true
   },
   "active": "ffc1a19eb1ff1a4c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "lois/lois.md",
+    "lois_a_trier/A trier.md"
+  ]
 }
